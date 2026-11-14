@@ -1,2 +1,0 @@
-# Soldiers-clash
-Game 
